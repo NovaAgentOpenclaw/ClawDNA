@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Project Specific (Sensitive/Internal)
+ralph/
+ralph-autonomous/
+check_*.js
+mint-nfts.js
+temp_decode_b58.js
+try_formats.js
+DEPLOYED.md
+ONCHAIN_ROADMAP.md
+render.yaml

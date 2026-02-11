@@ -1,0 +1,30 @@
+{
+  "components\\wallet\\DynamicWallet.tsx -> ./WalletButton": {
+    "id": 9424,
+    "files": [
+      "static/chunks/58-60b50da4b3dc18e0.js",
+      "static/chunks/424.552756adcae12109.js"
+    ]
+  },
+  "components\\wallet\\DynamicWallet.tsx -> ./WalletContextProvider": {
+    "id": 3703,
+    "files": [
+      "static/css/34a72a2dfc6ca7d9.css",
+      "static/chunks/3a91511d.19c4b8d8568dc455.js",
+      "static/chunks/724.d852ac1b0e14862f.js",
+      "static/chunks/6.842f5f4d48a567fc.js"
+    ]
+  },
+  "node_modules\\@solana\\wallet-adapter-solflare\\lib\\esm\\adapter.js -> @solflare-wallet/sdk": {
+    "id": 6047,
+    "files": [
+      "static/chunks/47.b34571946dda2ed4.js"
+    ]
+  },
+  "node_modules\\@solana\\wallet-adapter-solflare\\lib\\esm\\metamask\\wallet.js -> @solflare-wallet/metamask-sdk": {
+    "id": 9909,
+    "files": [
+      "static/chunks/909.e8d3346aa6f57fe4.js"
+    ]
+  }
+}

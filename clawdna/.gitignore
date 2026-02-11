@@ -1,0 +1,59 @@
+# Dependências
+node_modules/
+target/
+.anchor/
+test-ledger/
+
+# Build artifacts
+dist/
+build/
+*.so
+*.wasm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos sensíveis (NUNCA COMMITAR)
+.secrets/
+*.env
+*.pem
+*-keypair.json
+program-keypair.json
+
+# Arquivos pessoais/internos
+memory/
+AGENTS.md
+SOUL.md
+USER.md
+IDENTITY.md
+BOOTSTRAP.md
+HEARTBEAT.md
+TOOLS.md
+SWARM_PREFERENCES.md
+agents_status.json
+**/memory/
+**/.secrets/
+
+# Colosseum (remover se já commitado)
+colosseum_check*.py
+colosseum_report.py
+COLOSSEUM_SKILL.md
+
+# Arquivos de desenvolvimento local
+run-demo.ps1
+run-elite.ps1
+swarm_launcher.*
+demo_trading.py

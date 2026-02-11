@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-648281b328eeb91d.js",
+      "static/chunks/fd9d1056-c176ba62bfa905c4.js",
+      "static/chunks/23-436d0d535a3c8efb.js",
+      "static/chunks/main-app-15b975f286799122.js",
+      "static/chunks/app/_not-found/page-4475c7182703d691.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-648281b328eeb91d.js",
+      "static/chunks/fd9d1056-c176ba62bfa905c4.js",
+      "static/chunks/23-436d0d535a3c8efb.js",
+      "static/chunks/main-app-15b975f286799122.js",
+      "static/css/d50ce6af7c6e54f8.css",
+      "static/chunks/app/layout-6870d65ed3d65c35.js"
+    ],
+    "/genepool/page": [
+      "static/chunks/webpack-648281b328eeb91d.js",
+      "static/chunks/fd9d1056-c176ba62bfa905c4.js",
+      "static/chunks/23-436d0d535a3c8efb.js",
+      "static/chunks/main-app-15b975f286799122.js",
+      "static/chunks/58-60b50da4b3dc18e0.js",
+      "static/chunks/836-9bf6a48b8bab37d6.js",
+      "static/chunks/358-8277820739e82d5d.js",
+      "static/chunks/app/genepool/page-76614a43ea7609d5.js"
+    ],
+    "/lab/page": [
+      "static/chunks/webpack-648281b328eeb91d.js",
+      "static/chunks/fd9d1056-c176ba62bfa905c4.js",
+      "static/chunks/23-436d0d535a3c8efb.js",
+      "static/chunks/main-app-15b975f286799122.js",
+      "static/chunks/58-60b50da4b3dc18e0.js",
+      "static/chunks/498-1ea96523f45bf407.js",
+      "static/chunks/618-b4d0cae529658820.js",
+      "static/chunks/app/lab/page-9b85613de8b12aa0.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-648281b328eeb91d.js",
+      "static/chunks/fd9d1056-c176ba62bfa905c4.js",
+      "static/chunks/23-436d0d535a3c8efb.js",
+      "static/chunks/main-app-15b975f286799122.js",
+      "static/chunks/58-60b50da4b3dc18e0.js",
+      "static/chunks/498-1ea96523f45bf407.js",
+      "static/chunks/245-26bac50fe2a0442d.js",
+      "static/chunks/358-8277820739e82d5d.js",
+      "static/chunks/app/page-846b3e342e78202a.js"
+    ]
+  }
+}
