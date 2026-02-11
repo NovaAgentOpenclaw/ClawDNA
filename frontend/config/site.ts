@@ -40,7 +40,7 @@ export const siteConfig = {
     name: "$CLAWDNA",
     symbol: "CLAWDNA",
     // Contract Address - UPDATE THIS when token is deployed
-    ca: "COMING_SOON",
+    ca: "Dvca4oCFk7byjmG68ZV9TxSLUjimtSqAa1Av3uGDpump",
   },
 
   // Hero Section
@@ -257,11 +257,11 @@ export const siteConfig = {
       supply: "1,000,000,000",
       decimals: 9,
       // Contract Address - UPDATE THIS when token is deployed
-      ca: "COMING_SOON",
+      ca: "Dvca4oCFk7byjmG68ZV9TxSLUjimtSqAa1Av3uGDpump",
       // Links
-      dexscreener: "",
-      birdeye: "",
-      raydium: "",
+      dexscreener: "https://dexscreener.com/solana/Dvca4oCFk7byjmG68ZV9TxSLUjimtSqAa1Av3uGDpump",
+      birdeye: "https://birdeye.so/token/Dvca4oCFk7byjmG68ZV9TxSLUjimtSqAa1Av3uGDpump?chain=solana",
+      raydium: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=Dvca4oCFk7byjmG68ZV9TxSLUjimtSqAa1Av3uGDpump",
     },
     allocation: [
       { label: "Community Rewards", value: 40, color: "#00f0ff" },
